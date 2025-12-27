@@ -1,0 +1,10 @@
+{
+  "gender": "Male",
+  "age": 45,
+  "hypertension": 0,
+  "heart_disease": 0,
+  "bmi": 29.5,
+  "HbA1c_level": 5.8,
+  "blood_glucose_level": 160,
+  "smoking_history": "former"
+}
